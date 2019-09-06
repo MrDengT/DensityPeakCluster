@@ -8,3 +8,4 @@ Clustering by fast search and find of density peaks
 ./data/example_distances.zip
 
 # 效果如下
+![image](https://github.com/MrDengT/DensityPeakCluster/blob/master/data/juleixiaoguo.png)
