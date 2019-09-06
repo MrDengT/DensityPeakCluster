@@ -5,4 +5,6 @@ Clustering by fast search and find of density peaks
 这是Clustering by fast search and find of density peaks论文的实现
 
 # 数据集
-./data/
+./data/example_distances.zip
+
+# 效果如下
